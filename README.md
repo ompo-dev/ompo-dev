@@ -25,8 +25,7 @@ React JS e Native, Next, Electron, Vue, Stripe, Sanity e Tailwind.
 
 <div> 
  	<a href="https://tiktok.com/@o_m_p_o" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"_blank"></a>
- <a href="---" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:2326mpb@gmail.com?subject=Envie sua proposta, em breve lhe enviarei o orçamento"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dev-maicon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a>
+  <a href="https://www.linkedin.com/in/dev-maicon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a> 
   <a href="https://www.ompo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"_blank"></a>
 </div>

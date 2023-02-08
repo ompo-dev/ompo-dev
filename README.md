@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Eae,+Meu+nome+é+Maicon+Pereira;Tenho+18+anos;Sou+Programador+FullStack+com+foco+em+Front-end;Seja+bem-vindo+ao+meu+Github!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ompo-dev&bg_color=0d1117&color=b13583&line=b13583&point=ff91a4&area=true&hide_border=true)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ompo-dev&bg_color=0d1117&color=b13583&line=b13583&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img width="49%" height="180em" display:"incline-block" src="https://github-readme-stats.vercel.app/api?username=ompo-dev&show_icons=true&theme=dracula">

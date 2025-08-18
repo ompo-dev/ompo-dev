@@ -69,23 +69,6 @@
 </table>
 <br><br>
 
-
-### Estudos em andamento:
-  <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="icon" width="65" height="65" /></a>
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png?f=webp" alt="icon" width="65" height="65" />
-      </a>
-      <br>Java
-    </td>
- </tr>
-</table>
-<br><br>
-
 ### Social:
 <div align="center"> 
   <a href = "mailto:maicon.desenvolvedor@gmail.com?subject=Envie sua proposta, em breve lhe enviarei o orçamento"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">

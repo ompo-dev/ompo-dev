@@ -57,9 +57,9 @@ I care less about simply making something *work* and more about understanding **
 
 **React · Next.js · TypeScript · JavaScript**
 
-Tailwind CSS · shadcn/ui · Radix UI
-TanStack Query · Zustand · React Hook Form
-Zod · Framer Motion · Recharts · nuqs
+Tailwind CSS · shadcn/ui · Radix UI  
+TanStack Query · Zustand · React Hook Form  
+Zod · Framer Motion · Recharts · nuqs  
 Design Systems · SSR · RSC · PWA
 
 <br><br>
@@ -72,9 +72,9 @@ Design Systems · SSR · RSC · PWA
 
 **React Native · Expo · Swift**
 
-Expo Router · Native Modules
-AVFoundation · Native Bridges
-Offline-first · Background Sync
+Expo Router · Native Modules  
+AVFoundation · Native Bridges  
+Offline-first · Background Sync  
 Service Workers · IndexedDB
 
 <br><br>
@@ -87,9 +87,9 @@ Service Workers · IndexedDB
 
 **Node.js · Bun · Elysia · NestJS · Express**
 
-REST APIs · Webhooks · OpenAPI
-Authentication · Background Jobs
-Queues · Idempotency · Rate Limiting
+REST APIs · Webhooks · OpenAPI  
+Authentication · Background Jobs  
+Queues · Idempotency · Rate Limiting  
 API Clients · Orval · Axios
 
 </td>
@@ -108,8 +108,8 @@ Swift · Java
 
 <br>
 
-Web development · Native development
-Systems experimentation · Automation
+Web development · Native development  
+Systems experimentation · Automation  
 Scripting · Algorithms
 
 <br><br>
@@ -122,8 +122,8 @@ Scripting · Algorithms
 
 **PostgreSQL · Prisma · Supabase · Redis**
 
-SQL · Data Modeling
-IndexedDB · localStorage
+SQL · Data Modeling  
+IndexedDB · localStorage  
 Caching · Persistence Strategies
 
 <br><br>
@@ -136,8 +136,8 @@ Caching · Persistence Strategies
 
 **Docker · AWS · Vercel · Railway**
 
-GitHub Actions · Linux · Git
-CI/CD · Cloud Deployments
+GitHub Actions · Linux · Git  
+CI/CD · Cloud Deployments  
 Environment Management
 
 </td>
@@ -236,7 +236,6 @@ Environment Management
 
 </p>
 
-
 <br>
 
 ## 🧠 Areas I'm exploring
@@ -256,7 +255,7 @@ Environment Management
 
 ## 🚀 Selected Projects
 
-### 🐀 GymRats
+### 🐀 [GymRats](https://github.com/ompo-dev/gymrats)
 
 **Gamified fitness platform built as a complete SaaS ecosystem.**
 
@@ -272,22 +271,24 @@ Environment Management
 
 ---
 
-### 📊 Metrio
+### 🦀 [MomorRust](https://github.com/ompo-dev/MomorRust)
 
-**Observability and business metrics platform focused on transforming events into useful information.**
+**High-performance desktop code editor based on Zed, customized with native browser integration and AI-powered development workflows.**
 
-`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Webhooks`
+`Rust` `GPUI` `Tokio` `WebView2` `CDP` `MCP` `LSP`
 
-* structured event ingestion
-* webhook pipelines
-* dynamic metrics
-* dashboards and aggregations
-* structured logs and correlation
-* experimentation with observability architecture
+* Customized Zed-based desktop editor with GPU-accelerated interfaces
+* Integrated browser with native WebView2 support on Windows
+* Browser automation through Chrome DevTools Protocol (CDP)
+* MCP bridge connecting AI agents to the visible browser session
+* Persistent browser tabs, navigation history and session restoration
+* Integrated AI agents, terminal, Git workflows and language server support
+* Asynchronous architecture with Rust and Tokio
+* Cross-platform desktop development and native systems engineering
 
 ---
 
-### 🎧 Openfy
+### 🎧 [Openfy](https://github.com/ompo-dev/openfy)
 
 **Experimental mobile music application focused on native media playback and stream processing.**
 
@@ -346,15 +347,13 @@ It's about building systems that are **understandable, observable, resilient and
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-maicon">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="32" height="32"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ompo-dev">
-    <img src="https://api.iconify.design/skill-icons:github-dark.svg" width="32" height="32"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:maicon.desenvolvedor@gmail.com">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" width="32" height="32"/>
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
